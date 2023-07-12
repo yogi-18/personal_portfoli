@@ -97,8 +97,8 @@ project lorem ipsum generator for dummy content`,
     image: projectImage2,
     description: `I utilized a GitHub template to develop a customized React portfolio, incorporating my preferred modifications. The final version was then hosted on Netlify, enabling easy accessibility and showcasing my work to potential visitors.`,
     techstack: "React, Tailwind , Javascript , Css, Github",
-    previewLink: "http://yogeshkportfolio.netlify.app",
-    githubLink: "https://github.com/yogi-18/portfolio",
+    previewLink: "https://personal-portfoli-three.vercel.app/",
+    githubLink: "https://github.com/yogi-18/personal_portfolio",
   },
 ];
 
