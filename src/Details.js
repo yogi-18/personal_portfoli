@@ -20,7 +20,7 @@ import figma from "./assets/techstack/figma.png";
 // Porject Images
 import projectImage1 from "./assets/projects/e_commerce2.png";
 import projectImage2 from "./assets/projects/portfolio.png";
-import projectImage3 from "./assets/projects/project3.jpg";
+import projectImage3 from "./assets/projects/Pizza_Web.png";
 
 // Enter your Personal Details here
 export const personalDetails = {
@@ -84,13 +84,12 @@ export const projectDetails = [
     githubLink: "https://github.com/yogi-18/react_eccomerce",
   },
   {
-    title: "Project title 2",
+    title: "Pizza_Web",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `In This Project I created A template using Tailwind Css and using Javascript Filter method i filter Pizza category and price .`,
+    techstack: "HTML/Tailwind css, JavaScript , ReactJs",
+    previewLink: "https://pizza-web-lyart.vercel.app/",
+    githubLink: "https://github.com/yogi-18/Pizza_Web",
   },
   {
     title: "Pesonal Portfolio",
