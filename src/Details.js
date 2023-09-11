@@ -21,6 +21,7 @@ import figma from "./assets/techstack/figma.png";
 import projectImage1 from "./assets/projects/e_commerce2.png";
 import projectImage2 from "./assets/projects/portfolio.png";
 import projectImage3 from "./assets/projects/Pizza_Web.png";
+import projectImage4 from "./assets/projects/planet_web.png";
 
 // Enter your Personal Details here
 export const personalDetails = {
@@ -90,6 +91,18 @@ export const projectDetails = [
     techstack: "HTML/Tailwind css, JavaScript , ReactJs",
     previewLink: "https://pizza-web-lyart.vercel.app/",
     githubLink: "https://github.com/yogi-18/Pizza_Web",
+  },
+  {
+    title: "Planet Web",
+    image: projectImage4,
+    description: `Planet App Web is an e-commerce website that aims to provide a
+    user-friendly and responsive shopping experience. The project is
+    developed using modern web technologies, including React.js for
+    building dynamic user interfaces, Redux for state management, and
+    Tailwind CSS for styling.`,
+    techstack: "React, Tailwind , Javascript , Css, Github",
+    previewLink: "https://plannet-web.onrender.com/",
+    githubLink: "https://github.com/yogi-18/planet_Web_full_code",
   },
   {
     title: "Pesonal Portfolio",
